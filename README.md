@@ -9,7 +9,6 @@ I'm a software developer passionate about creating innovative solutions and tack
 - Programming languages: Python, PHP, JavaScript, Node.js, Java
 - Database: MySQL
 - Data Security
-ף
 
 ## Links
 
@@ -19,3 +18,5 @@ I'm a software developer passionate about creating innovative solutions and tack
 ## Contact
 
 - Email: [avi770.apps@gmail.com](mailto:avi770.apps@gmail.com)
+
+<!---[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF72F&center=true&vCenter=true&lines=Hello%2C+My+Name+Is+avi+cohen!)](https://git.io/typing-svg)
