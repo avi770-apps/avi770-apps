@@ -6,7 +6,7 @@ I'm a software developer passionate about creating innovative solutions and tack
 
 ## Skills
 
-- Programming languages: Python, PHP, JavaScript, Node.js, Java
+- Programming languages: Python, PHP, JavaScript, Node.js.
 - Database: MySQL
 - Data Security
 
